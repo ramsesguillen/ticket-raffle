@@ -1,0 +1,29 @@
+{
+  "_axios-1779699b.js": {
+    "file": "assets/axios-1779699b.js"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-8d8f37d1.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "file": "assets/app-fa891e11.js",
+    "imports": [
+      "_axios-1779699b.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  },
+  "resources/js/app.jsx": {
+    "css": [
+      "assets/app-8d8f37d1.css"
+    ],
+    "file": "assets/app-c6ed433d.js",
+    "imports": [
+      "_axios-1779699b.js"
+    ],
+    "isEntry": true,
+    "src": "resources/js/app.jsx"
+  }
+}
